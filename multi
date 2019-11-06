@@ -1,0 +1,6 @@
+#include<stdio.h>
+main()
+{
+ int multi;
+ multi=10*20;
+}
